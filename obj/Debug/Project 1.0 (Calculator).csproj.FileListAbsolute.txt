@@ -1,0 +1,10 @@
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\bin\Debug\Project 1.0 (Calculator).exe
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\bin\Debug\Project 1.0 (Calculator).exe.config
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\bin\Debug\Project 1.0 (Calculator).pdb
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project_1._0__Calculator_.Form1.resources
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project_1._0__Calculator_.Properties.Resources.resources
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project 1.0 (Calculator).csproj.GenerateResource.Cache
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project 1.0 (Calculator).csproj.CoreCompileInputs.cache
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project 1.0 (Calculator).exe
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project 1.0 (Calculator).pdb
+C:\Users\Armand\Desktop\C# Projects Visual Studio\Project 1.0 (Calculator)\Project 1.0 (Calculator)\obj\Debug\Project 1.0 (Calculator).csprojResolveAssemblyReference.cache
